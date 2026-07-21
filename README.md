@@ -258,7 +258,7 @@ MIT © [Your Name] — see [LICENSE](LICENSE) for details.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOURUSERNAME/instapurge&type=Date)](https://star-history.com/#YOURUSERNAME/instapurge&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SAQLVATION/instapurge&type=Date)](https://star-history.com/#SAQLVATION/instapurge&Date)
 
 ---
 
