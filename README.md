@@ -59,7 +59,6 @@ playwright install chromium
 Copy the example config and fill in your Instagram credentials:
 
 ```bash
-cp config.example.json config.json
 # Edit config.json with your credentials
 ```
 
