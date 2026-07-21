@@ -46,7 +46,7 @@ You have 8,000 followers. Maybe 300 are bots, mass-followers, or empty accounts 
 ### 1. Install
 
 ```bash
-git clone https://github.com/YOURUSERNAME/instapurge.git
+git clone https://github.com/Saqlvation/instapurge.git
 cd instapurge
 pip install -r requirements.txt
 playwright install chromium
