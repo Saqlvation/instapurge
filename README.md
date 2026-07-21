@@ -252,7 +252,7 @@ This tool is for **cleaning your own Instagram account**. Use it responsibly. In
 
 ## License
 
-MIT © [Your Name] — see [LICENSE](LICENSE) for details.
+MIT © Saqlvation — see [LICENSE](LICENSE) for details.
 
 ---
 
